@@ -1,0 +1,14 @@
+
+Prevention Checklist
+•	Verify sender email addresses before clicking links—check for slight misspellings like "hr@compnyname.com" instead of "company.com".
+•	Enable 2-factor authentication (2FA) on Google, VIT email, UPI apps, and banking apps using authenticator apps (not SMS).
+•	Never share UPI PIN or OTP even if caller claims to be from bank/phonepe/paytm. Real banks never ask.
+•	Use UPI apps only on your personal phone, not cyber cafe/shared devices or public WiFi.
+•	Check for "https://lock" symbol and valid domain before entering login details on any website.
+•	Download apps only from Google Play Store avoid APK files from WhatsApp forwards or Telegram channels.
+•	Log out from email/banking/UPI after use on library computers or friend's laptops.
+•	Pause before responding to "urgent" internship/job offers asking for personal details or payments.
+
+Report Immediately
+•	National Cyber Crime Portal: cybercrime.gov.in.
+•	Helpline: 1930 (toll-free for financial cyber fraud).
