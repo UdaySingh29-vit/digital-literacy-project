@@ -1,15 +1,25 @@
-# Case Study: The "Scan to Receive" UPI Fraud
-## The Crime:
-This case study examines a common form of financial fraud known as UPI/Online Payment Fraud, specifically utilizing deceptive QR codes.
+UPI (Unified Payments Interface) fraud is a cybercrime where scammers trick users into authorizing fraudulent transactions or sharing sensitive details like UPI PINs, OTPs, or bank info through deception. In India, UPI handles over 18 billion transactions monthly, making it a prime target 95,000+ cases reported in 2023 alone.
 
-## The Scenario:
-A first-year college student listed an old textbook for sale on a popular online marketplace. Within an hour, a "buyer" contacted them via WhatsApp, expressing urgent interest. The scammer skipped any price negotiation to build a false sense of ease and sent a QR code to the student. They claimed that the student simply needed to "scan the code to receive the advance payment" instantly.
+**How it typically happens (step-by-step):**
 
-## How it Typically Happens:
-1. Contact: The scammer identifies a target on a listing site and moves the conversation to a private chat app.
-2. The Deception: They send a QR code and insist it is a "Receive Money" code.
-3. The Trap: When the student scans the code using a UPI app (like GPay or PhonePe), the app asks for their UPI PIN.
-4. The Theft: In the rush to get the money, the student enters their PIN. Because a PIN is only required to send money, the amount is immediately deducted from the student's account instead of being credited.
+1.	Initial contact: Victim receives WhatsApp/SMS/call pretending to be from PhonePe/GPay/bank: "Your UPI account is blocked—update KYC now or lose access."
+   
+2.	Urgency build: Scammer shares fake link/form claiming "limited time" or "account freeze imminent."
 
-## Target and Consequences:
-Students and young adults are frequently targeted because they often use digital payments for small peer-to-peer transactions. The consequences include immediate financial loss, which is often difficult to reverse, and the potential for the scammer to gain further access to linked bank details. This highlights the urgent need for digital literacy regarding how UPI protocols actually function.
+3.	Data extraction: Victim enters UPI ID, bank details, or "verifies" by sharing OTP/PIN during a fake call.
+   
+4.	Execution: Scammer uses details for unauthorized transfers to mule accounts, often layering through multiple UPI IDs.
+   
+5.	Cover-up: Victim sees debits; scammer vanishes.
+    
+**Who is usually targeted:** 
+
+Tech-savvy but inexperienced college students (18-24) needing quick cash for fees/hostel expenses, rural first-time users, and elderly parents sending pocket money. Scammers exploit financial pressures during exams/semester.
+
+**Consequences:** 
+
+Victims lose ₹1,000-₹50,000 instantly (e.g., a Mumbai teacher lost ₹1.5 lakhs to fake KYC link). Long-term: drained savings, credit score damage, mental stress, academic disruption from lost fees. Recovery is rare (<10%) due to irreversible P2P transfers; many face family blame. Nationally, ₹120+ crore lost to UPI scams in 2024, fuelling money laundering.
+
+**Prevention:** 
+
+Verify via official apps only, enable limits/2FA, report to 1930/cybercrime.gov.in within 1 hour.
